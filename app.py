@@ -1,3 +1,8 @@
+import sys
+sys.exit()
+
+
+
 import asyncio
 from aiogram import Bot, Dispatcher
 from bot.router import router
